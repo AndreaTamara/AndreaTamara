@@ -1,16 +1,14 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/rsUGLKwgSvSxmq1VrZ/giphy.gif" width="200"/> 
- <h1> Hey there 👋!</h1>
+  <img src="https://media.giphy.com/media/rsUGLKwgSvSxmq1VrZ/giphy.gif" width="180"/> 
+  <h1> Hey there 👋!</h1>
 </div>
 
-</br>
 
 ### :woman_technologist: About Me :
 
 I'm a self-taught <strong>frontend developer </strong> from Colombia. I have a bachelor´s degree as an industrial engineer but I got passionate about the world of web development so I decided became part of it!
 
-</br>
 
 ### :hammer_and_wrench: Languages and Tools :
 
