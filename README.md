@@ -8,10 +8,8 @@
 
 ### :woman_technologist: About Me :
 
-</br>
 I'm a self-taught <strong>frontend developer </strong> from Colombia. I have a bachelor´s degree as an industrial engineer but I got passionate about the world of web development so I decided became part of it!
 
-</br>
 </br>
 
 ### :hammer_and_wrench: Languages and Tools :
