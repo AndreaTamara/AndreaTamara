@@ -9,6 +9,12 @@
 
 I'm a self-taught <strong>frontend developer </strong> from Colombia. I have a bachelor´s degree as an industrial engineer but I got passionate about the world of web development so I decided became part of it!
 
+In my spare time I like to:
+- Read about several topics 📚
+- Jog with my dog 🐕
+- Practice painting, drawing and lettering 👩‍🎨
+- Play with my cats 🐱🐱🐱
+
 
 ### :hammer_and_wrench: Languages and Tools :
 
