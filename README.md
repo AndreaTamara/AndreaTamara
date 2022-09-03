@@ -15,6 +15,7 @@ In my spare time I like to:
 - Practice painting, drawing and lettering 👩‍🎨
 - Play with my cats 🐱🐱🐱
 
+</br>
 
 ### :hammer_and_wrench: Languages and Tools :
 
