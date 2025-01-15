@@ -11,9 +11,9 @@ I'm a self-taught <strong>frontend developer </strong> from Colombia. I have a b
 
 In my spare time I like to:
 - Read about several topics 📚
-- Jog with my dog 🐕
+- Jog with my dogs 🐕🐕
 - Practice painting, drawing and lettering 👩‍🎨
-- Play with my cats 🐱🐱🐱
+- Play with my cats 🐱🐱🐱🐱
 
 </br>
 
